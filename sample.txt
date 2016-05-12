@@ -1,0 +1,10 @@
+B_Nucleolin/Confocal/DNA/blue3.tif
+B_Nucleolin/Confocal/DNA/blue4.tif
+B_Nucleolin/IC100/DNA/blue__D___4_004.bmp
+B_Nucleolin/IC100/DNA/blue__D___6_001.bmp
+B_Nucleolin/Confocal/DNA/blue20.tif
+B_Nucleolin/IC100/DNA/blue__E___4_001.bmp
+B_Nucleolin/IC100/DNA/blue__E___4_002.bmp
+B_Nucleolin/IC100/DNA/blue__E___4_003.bmp
+B_Nucleolin/IC100/DNA/blue__G___2_002.bmp
+B_Nucleolin/Confocal/DNA/blue9.tif
