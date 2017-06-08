@@ -3,10 +3,13 @@
 
 ### Introduction
 Gene products may be tagged to study their localization, function, or structure. One method of gene product tagging is through CD-tagging. CD-tagging relies on the “Central Dogma” of molecular biology:
+
 ..1. DNA is copied through replication.
-..2.mRNA is transcribed from DNA.
-..3.Proteins are translated from mRNA.
-\n
+
+..2. mRNA is transcribed from DNA.
+
+..3. Proteins are translated from mRNA.
+
 A CD cassette is used to tag a gene of interest. This cassette contains the coding sequence for GFP (Green Fluorescent Protein), along with a splice acceptor and donor site. If correctly inserted into the intron of a gene, the coding sequence for GFP will be introduced into the mRNA transcript as a guest exon. When the mRNA is translated into its corresponding protein, GFP will be incorporated into the final protein structure.
 	
 GFP exhibits fluorescent properties, lending itself most useful for CD-tagging experiments. It absorbs light in the blue visible light spectra (450nm to 495nm) and emits light in the green visible light spectra (495nm to 570nm). GFP-tagged cells can be separated from non-tagged cells using flow cytometry. This technique sorts cells while suspended in a constant stream of liquid. The instrument possesses fluorescent detectors (among other detectors) that are able to differentiate between cells with and without fluorescent properties. In the case of CD-tagging, the excitation wavelength of the laser would be between 450nm and 495nm. The fluorescent detectors would look for events (cells) that emit light between 495nm and 570nm. These cells would be positive for GFP and separated from the non-GFP cells.
