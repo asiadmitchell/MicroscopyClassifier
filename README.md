@@ -4,11 +4,9 @@
 ### Introduction
 Gene products may be tagged to study their localization, function, or structure. One method of gene product tagging is through CD-tagging. CD-tagging relies on the “Central Dogma” of molecular biology:
 
-..1. DNA is copied through replication.
-
-..2. mRNA is transcribed from DNA.
-
-..3. Proteins are translated from mRNA.
+1. DNA is copied through replication.
+2. mRNA is transcribed from DNA.
+3. Proteins are translated from mRNA.
 
 A CD cassette is used to tag a gene of interest. This cassette contains the coding sequence for GFP (Green Fluorescent Protein), along with a splice acceptor and donor site. If correctly inserted into the intron of a gene, the coding sequence for GFP will be introduced into the mRNA transcript as a guest exon. When the mRNA is translated into its corresponding protein, GFP will be incorporated into the final protein structure.
 	
